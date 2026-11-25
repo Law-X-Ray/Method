@@ -45,4 +45,4 @@ Law-X-Ray is an independently developed research and analytical project.
 
 **Maksym Sultanov** — Framework Architecture and Methodology
 
-**Olexander Klepach** — Research Collaboration and Analytical Review
+**Olexander Klepach, Tretyakov Denis** — Research Collaboration and Analytical Review
